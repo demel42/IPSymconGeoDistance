@@ -1,8 +1,8 @@
 {
 	"id": "{7A135929-CE1A-9C4A-A74A-8E9C427D6FBA}",
-	"name": "ModuleTemplate",
+	"name": "Geografische Distanz berechnen",
 	"author": "Ch. Damsky",
-	"url": "https://github.com/demel42/ModuleTenmplate.git",
+	"url": "https://github.com/demel42/IPSymconGeoDistance.git",
 	"compatibility": {
 		"version": "6.0"
 	},
