@@ -1,6 +1,6 @@
 {
 	"id": "{DF7B375A-83ED-329E-B9D3-2D4240E5F99D}",
-	"name": "ModuleTemplate Device",
+	"name": "Geografische Distanz berechnen",
 	"type": 3,
 	"vendor": "",
 	"aliases": [],
@@ -8,5 +8,5 @@
 	"childRequirements": [],
 	"implemented": [],
 	"prefix": "ModuleTemplate",
-	"url": "https://github.com/demel42/ModuleTemplate/blob/master/README.md"
+	"url": "https://github.com/demel42/IPSymconGeoDistance/blob/master/README.md"
 }
