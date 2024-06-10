@@ -33,11 +33,12 @@ Alternativ kann das Modul über [Module Control](https://www.symcon.de/service/d
 
 ## 4. Funktionsreferenz
 
-`GeoDistance_Calc(string $InstanzID, array $cur_loc, array $home_loc = null)`
+`GeoDistance_Calc(string $InstanzID, array $cur_loc, array $home_loc = null)`<br>
 Berechnet den Abstand der beiden Koordinaten.
 
 _loc_ enthält die Angabe von Ḇreiten- und Längengrad; ist _home_loc_ gleich **null**, wird die Position aus der _Location_-Instanz verwendet.
 
+Beispiel:
 ```
 $dist = GeoDistance_Calc(50148, ['latitude' => 51.460924, 'longitude' => 7.158265], null);
 ```
