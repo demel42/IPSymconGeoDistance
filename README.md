@@ -20,7 +20,7 @@ Berechnung der Entfernung zwischen zwei geografischen Koordinaten.
 
 ## 2. Voraussetzungen
 
-- IP-Symcon ab Version 6.0
+- IP-Symcon ab Version 7.0
 
 ## 3. Installation
 
