@@ -36,7 +36,7 @@ Alternativ kann das Modul über [Module Control](https://www.symcon.de/service/d
 `GeoDistance_Calc(string $InstanzID, array $cur_loc, array $home_loc = null)`<br>
 Berechnet den Abstand der beiden Koordinaten.
 
-_loc_ enthält die Angabe von Ḇreiten- und Längengrad; ist _home_loc_ gleich **null**, wird die Position aus der _Location_-Instanz verwendet.
+_loc_ enthält die Angabe von Breiten- und Längengrad; ist _home_loc_ gleich **null**, wird die Position aus der _Location_-Instanz verwendet.
 
 Beispiel:
 ```
