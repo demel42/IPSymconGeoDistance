@@ -1,12 +1,12 @@
 {
 	"id": "{7A135929-CE1A-9C4A-A74A-8E9C427D6FBA}",
-	"name": "Geografische Distanz berechnen",
+	"name": "GeoDistance",
 	"author": "Ch. Damsky",
 	"url": "https://github.com/demel42/IPSymconGeoDistance.git",
 	"compatibility": {
 		"version": "6.0"
 	},
-	"version": "0.9",
+	"version": "1.0",
 	"build": 0,
-	"date": 0
+	"date": 1718000101
 }

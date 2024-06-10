@@ -1,12 +1,12 @@
 {
 	"id": "{DF7B375A-83ED-329E-B9D3-2D4240E5F99D}",
-	"name": "Geografische Distanz berechnen",
+	"name": "Geo distance",
 	"type": 3,
 	"vendor": "",
 	"aliases": [],
 	"parentRequirements": [],
 	"childRequirements": [],
 	"implemented": [],
-	"prefix": "ModuleTemplate",
+	"prefix": "GeoDistance",
 	"url": "https://github.com/demel42/IPSymconGeoDistance/blob/master/README.md"
 }
