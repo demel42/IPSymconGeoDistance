@@ -61,5 +61,9 @@ die Instanz hat keine Einstellungen oder Aktionen
 
 ## 7. Versions-Historie
 
+- 1.1 @ 02.01.2025 14:28
+  - Fix: Link zur Dokumentation korrigiert
+  - update submodule CommonStubs
+
 - 1.0 @ 10.06.2024 08:15
   - Initiale Version
