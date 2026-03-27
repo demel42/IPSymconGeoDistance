@@ -61,6 +61,10 @@ die Instanz hat keine Einstellungen oder Aktionen
 
 ## 7. Versions-Historie
 
+- 1.2 @ 27.03.2026 09:45
+  - Fix: Anpassung für IPS 9
+  - update submodule CommonStubs
+
 - 1.1 @ 02.01.2025 14:28
   - Fix: Link zur Dokumentation korrigiert
   - update submodule CommonStubs
