@@ -61,6 +61,10 @@ die Instanz hat keine Einstellungen oder Aktionen
 
 ## 7. Versions-Historie
 
+- 1.3 @ 09.05.2026 11:36
+  - Fix: Änderung von deprecated php code
+  - update submodule CommonStubs
+
 - 1.2 @ 27.03.2026 09:45
   - Fix: Anpassung für IPS 9
   - update submodule CommonStubs

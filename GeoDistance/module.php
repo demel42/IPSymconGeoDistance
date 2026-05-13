@@ -88,7 +88,7 @@ class GeoDistance extends IPSModule
 
     // Distanz zwischen zwei Geo-Koordinaten berechnen (in Kilometern)
     // Quelle: http://phplernen.org/snippets/entfernung-zwischen-zwei-geokoordinaten-berechnen/
-    public function Calc(array $cur_loc, array $home_loc = null)
+    public function Calc(array $cur_loc, ?array $home_loc = null)
     {
         if (isset($cur_loc['longitude']) && isset($cur_loc['latitude'])) {
             $cur_lon = $cur_loc['longitude'];
